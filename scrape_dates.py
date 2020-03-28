@@ -1,9 +1,13 @@
+# returns true if a string can be represented as an int
 def is_int(string):
     try:
         int(string)
         return True
     except ValueError:
         return False
+
+# searches through each line of the file for a date and appends it to
+# an array which is later returned
 
 
 def get_dates_arr(course):
