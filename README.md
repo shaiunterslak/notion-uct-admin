@@ -1,4 +1,4 @@
-# notion-uct-admin
+# Notion-python University admin tool
 A python script that uses the unofficial notion api to create dated tickets tagged by course codes for an easy university workflow.
 
 This allows you to view all of your lectures on a calendar, tag them by week, write notes in an actual lecture object, create note templates that can be reused, easily keep track of lectures you've watched by changing their status. Tag lectures by how well you understand them, etc.
