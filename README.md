@@ -4,7 +4,7 @@ A python script that uses the unofficial notion api to create dated tickets tagg
 This allows you to view all of your lectures on a calendar, tag them by week, write notes in an actual lecture object, create note templates that can be reused, easily keep track of lectures you've watched by changing their status. Tag lectures by how well you understand them, etc.
 
 
-# usage
+# Usage
 
 ## Notion:
 Navigate to the Notion board that you want to use as your university lecture page and paste the link in the NOTION_BLOCK_LINK variable at the top of the create_lectures.py file.
